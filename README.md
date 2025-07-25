@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Toni
 
-<!--
-**toni770/toni770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **desarrollador fullstack**, especializado en **soluciones mobile** y en la creación de **MVPs para startups**.
 
-Here are some ideas to get you started:
+🚀 Ayudo a fundadores y pequeños equipos a convertir ideas en productos funcionales — de forma rápida, escalable y lista para producción.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tecnologías que uso
+
+- **Frontend:** React Native · React.js · Next.js · TailwindCSS  
+- **Backend:** Node.js · Express · Firebase · PostgreSQL · MongoDB  
+- **DevOps / Herramientas:** Git · Docker · Supabase · Figma · Notion  
+
+---
+
+## 🛠 Qué hago
+
+✅ Diseño y desarrollo de aplicaciones web y mobile fullstack  
+✅ Construcción de MVPs desde cero, con rapidez y foco  
+✅ Solución de problemas reales con código limpio y mantenible  
+✅ Trabajo alineado a objetivos de negocio y restricciones técnicas
+✅ Integraciónes con sistemas actuales
+✅ Automatizaciones con IA
+
+
