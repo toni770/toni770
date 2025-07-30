@@ -17,12 +17,6 @@ I'm a **fullstack developer** specialized in mobile-first solutions and MVP deve
 - Projects for freelance clients.
 - Developing [KheirApp](https://www.kheirapp.com)
 
-### 📖 I’m learning
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="AI"/>
-</div>
 
 ### 📫 How to reach me
 
