@@ -1,9 +1,6 @@
 # 👋 Hola, soy Toni
 
 Soy **desarrollador fullstack**, especializado en **soluciones mobile** y en la creación de **MVPs**.
-
-🚀 Ayudo a fundadores y pequeños equipos a convertir ideas en productos funcionales — de forma rápida, escalable y lista para producción.
-
 ---
 
 ## 🧰 Tecnologías que uso
