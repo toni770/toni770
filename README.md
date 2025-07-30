@@ -15,7 +15,7 @@ I'm a **fullstack developer** specialized in mobile-first solutions and MVP deve
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
-- Kheir App [Mobile app project](https://www.kheirapp.com)
+- Developing [KheirApp](https://www.kheirapp.com)
 
 ### 📖 I’m learning
 
