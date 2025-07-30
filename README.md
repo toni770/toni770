@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Toni 👋
 
 I'm a **fullstack developer** specialized in mobile-first solutions and MVP development for early-stage products.
 
-**I work with**
+### 🛠️​ I work with
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
